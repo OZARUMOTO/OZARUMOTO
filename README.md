@@ -1,16 +1,134 @@
-## Hi there 👋
+<!-- OZARU MOTO — HW GATEKEEPER -->
+<!-- MONOCHROME E-INK STYLE -->
 
-<!--
-**OZARUMOTO/OZARUMOTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=180&section=header&text=OZARU%20MOTO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=HARDWARE%20GATEKEEPER%20//%20PCB%20ARCHITECT&descAlignY=58&descSize=14" width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=600&size=18&pause=1200&color=333333&center=true&vCenter=true&width=500&lines=%24+whoami;ozaru+moto;%24+what+do+you+build;hardware.+exclusively+mine." alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                    OZARU MOTO                            │
+│                                                          │
+│  Hardwre Gatekeeper / PCB Architect                      │
+│                                                          │
+│  "I don't build what exists. I build what shouldn't."    │
+│  "I don't gatekeep knowledge. I gatekeep hardware."      │
+│                                                          │
+│  I create PCBs from scratch — AI-assisted design,        │
+│  manual routing, raw engineering instinct.               │
+│  Every board I make is exclusively mine.                 │
+│                                                          │
+│  #1 Gatekeeper. If you want it, build it yourself.       │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  TOOLCHAIN                                               │
+├──────────────────────────────────────────────────────────┤
+│  [KiCad]  [ESP32]  [Python]  [C++]  [Bitcoin]           │
+│  [PCB Design]  [Water Cooling]  [6-Layer]               │
+│  [PMBus]  [I2C]  [UART]                                  │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  FLAGSHIP : OZARU-BM8X                                   │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  8 × BM1373 ASICS  |  20 TH/s  |  ~500W  |  Water Cool  │
+│                                                          │
+│  ┌──────┐  ┌──────┐  ┌──────┐  ┌──────┐  ┌──────┐      │
+│  │ASIC1 │  │ASIC2 │  │ASIC3 │  │ASIC4 │  │ESP32 │      │
+│  │BM1373│  │BM1373│  │BM1373│  │BM1373│  │  S3  │      │
+│  └──────┘  └──────┘  └──────┘  └──────┘  └──────┘      │
+│  ┌──────┐  ┌──────┐  ┌──────┐  ┌──────┐                │
+│  │ASIC5 │  │ASIC6 │  │ASIC7 │  │ASIC8 │                │
+│  │BM1373│  │BM1373│  │BM1373│  │BM1373│                │
+│  └──────┘  └──────┘  └──────┘  └──────┘                │
+│       ▲         ▲         ▲         ▲                   │
+│       └─────────┴─ VCORE ─┴─────────┘                   │
+│                      │                                   │
+│              ┌───────▼───────┐                           │
+│              │ TPS53689 VRM  │                           │
+│              │ 8-Phase 50A   │                           │
+│              └───────┬───────┘                           │
+│                      │                                   │
+│                ┌─────▼─────┐                             │
+│                │  24V DC IN │                             │
+│                │ C14 / J_PWR│                             │
+│                └───────────┘                             │
+│                                                          │
+│  Exclusive. Hand-designed. Water-cooled.                 │
+│  This is not a product. This is proof of concept.        │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OZARUMOTO&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OZARUMOTO&theme=graywhite&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OZARUMOTO&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OZARUMOTO&theme=default" width="100%" />
+</p>
+
+<br>
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  GATEKEEPER MANIFESTO                                    │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  I don't open-source my hardware.                        │
+│  I open-source the standard.                             │
+│                                                          │
+│  My boards are not products.                             │
+│  They are proof that I can do what they said was         │
+│  impossible for one person.                              │
+│                                                          │
+│  I use AI to design PCBs.                                │
+│  I route traces by hand.                                 │
+│  I write firmware from scratch.                          │
+│  I water-cool ASICs in a configuration nobody else has.  │
+│                                                          │
+│  You want this hardware?                                 │
+│  Build it yourself. — I'll show you the way.             │
+│                                                          │
+│  This is not gatekeeping.                                │
+│  This is earning.                                        │
+│                                                          │
+│  — Ozaru Moto                                            │
+│    #1 Hardware Gatekeeper                                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/OZARUMOTO"><img src="https://img.shields.io/badge/GitHub-OZARUMOTO-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
+  <img src="https://img.shields.io/badge/HARDWARE-EXCLUSIVE-333333?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=000000"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=%23%231%20Gatekeeper&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+</p>
+"Initial profile README"
