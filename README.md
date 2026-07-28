@@ -15,7 +15,7 @@
 ┌──────────────────────────────────────────────────────────┐
 │                    OZARU MOTO                            │
 │                                                          │
-│  Hardwre Gatekeeper / PCB Architect                      │
+│  Hardware Gatekeeper / PCB Architect                     │
 │                                                          │
 │  "I don't build what exists. I build what shouldn't."    │
 │  "I don't gatekeep knowledge. I gatekeep hardware."      │
@@ -37,41 +37,6 @@
 │  [KiCad]  [ESP32]  [Python]  [C++]  [Bitcoin]           │
 │  [PCB Design]  [Water Cooling]  [6-Layer]               │
 │  [PMBus]  [I2C]  [UART]                                  │
-└──────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  FLAGSHIP : OZARU-BM8X                                   │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  8 × BM1373 ASICS  |  20 TH/s  |  ~500W  |  Water Cool  │
-│                                                          │
-│  ┌──────┐  ┌──────┐  ┌──────┐  ┌──────┐  ┌──────┐      │
-│  │ASIC1 │  │ASIC2 │  │ASIC3 │  │ASIC4 │  │ESP32 │      │
-│  │BM1373│  │BM1373│  │BM1373│  │BM1373│  │  S3  │      │
-│  └──────┘  └──────┘  └──────┘  └──────┘  └──────┘      │
-│  ┌──────┐  ┌──────┐  ┌──────┐  ┌──────┐                │
-│  │ASIC5 │  │ASIC6 │  │ASIC7 │  │ASIC8 │                │
-│  │BM1373│  │BM1373│  │BM1373│  │BM1373│                │
-│  └──────┘  └──────┘  └──────┘  └──────┘                │
-│       ▲         ▲         ▲         ▲                   │
-│       └─────────┴─ VCORE ─┴─────────┘                   │
-│                      │                                   │
-│              ┌───────▼───────┐                           │
-│              │ TPS53689 VRM  │                           │
-│              │ 8-Phase 50A   │                           │
-│              └───────┬───────┘                           │
-│                      │                                   │
-│                ┌─────▼─────┐                             │
-│                │  24V DC IN │                             │
-│                │ C14 / J_PWR│                             │
-│                └───────────┘                             │
-│                                                          │
-│  Exclusive. Hand-designed. Water-cooled.                 │
-│  This is not a product. This is proof of concept.        │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -110,7 +75,7 @@
 │  I water-cool ASICs in a configuration nobody else has.  │
 │                                                          │
 │  You want this hardware?                                 │
-│  Build it yourself. — I'll show you the way.             │
+│  Build it yourself. — Good luck.                         │
 │                                                          │
 │  This is not gatekeeping.                                │
 │  This is earning.                                        │
@@ -131,4 +96,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=%23%231%20Gatekeeper&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 </p>
-"Initial profile README"
