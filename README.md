@@ -43,8 +43,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=OZARUMOTO&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OZARUMOTO&theme=graywhite&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=OZARUMOTO&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" width="100%" />
 </p>
 
 <p align="center">
