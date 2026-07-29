@@ -2,11 +2,11 @@
 <!-- MONOCHROME E-INK STYLE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=180&section=header&text=OZARU%20MOTO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PCB%20ARCHITECT%20//%20BITCOIN%20MINING%20HARDWARE&descAlignY=58&descSize=14" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=180&section=header&text=OZARU%20MOTO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38  &desc=PCB%20ARCHITECT%20//%20SOFTWARE%20DEVELOPER%20//%20BITCOIN&descAlignY=58&descSize=14" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=600&size=18&pause=1200&color=333333&center=true&vCenter=true&width=500&lines=%24+whoami;ozaru+moto;%24+what+do+you+build;custom+bitcoin+mining+hardware;%24+stack;hardware%2C+firmware%2C+ai-assisted+design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=600&size=18&pause=1200&color=333333&center=true&vCenter=true&width=500&lines=%24+whoami;ozaru+moto;%24+what+do+you+build;bitcoin+hardware+%2B+software;%24+stack;rust%2C+pcb%2C+firmware%2C+bitcoin" alt="Typing SVG" />
 </p>
 
 <br>
@@ -15,15 +15,15 @@
 ┌──────────────────────────────────────────────────────────┐
 │                    OZARU MOTO                            │
 │                                                          │
-│  PCB Architect / Bitcoin Mining Hardware                 │
+│  PCB Architect / Software Developer / Bitcoin            │
 │                                                          │
-│  I design custom PCBs from scratch — AI-assisted         │
-│  design, manual routing, raw engineering instinct.       │
+│  I build hardware AND software. Custom PCBs, Rust        │
+│  backends, hardware signing apps, firmware — I ship      │
+│  across the full stack.                                  │
+│                                                          │
 │  Every board is hand-designed, water-cooled, and         │
-│  pushed to its absolute limit.                           │
-│                                                          │
-│  Full-stack hardware engineer: PCB layout, SMD           │
-│  assembly, firmware, thermal management.                 │
+│  pushed to its absolute limit. Every line of code        │
+│  is written with the same precision.                     │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -33,9 +33,9 @@
 ┌──────────────────────────────────────────────────────────┐
 │  TOOLCHAIN                                               │
 ├──────────────────────────────────────────────────────────┤
-│  [KiCad]  [ESP32]  [Python]  [C++]  [Bitcoin]           │
-│  [PCB Design]  [Water Cooling]  [6-Layer]               │
-│  [PMBus]  [I2C]  [UART]                                  │
+│  [KiCad]  [Rust]  [Python]  [C++]  [Axum]              │
+│  [PCB Design]  [Firmware]  [React]  [Bitcoin]           │
+│  [Lightning]  [ArkadeOS]  [AI-Assisted]                  │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://github.com/OZARUMOTO"><img src="https://img.shields.io/badge/GitHub-OZARUMOTO-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
-  <img src="https://img.shields.io/badge/HARDWARE-ENGINEER-333333?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/HARDWARE+SOFTWARE-333333?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000"/>
 </p>
 
 <p align="center">
