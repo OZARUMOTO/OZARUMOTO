@@ -2,7 +2,7 @@
 <!-- MONOCHROME E-INK STYLE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=180&section=header&text=OZARU%20MOTO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38  &desc=PCB%20ARCHITECT%20//%20SOFTWARE%20DEVELOPER%20//%20BITCOIN&descAlignY=58&descSize=14" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=180&section=header&text=OZARU%20MOTO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PCB%20ARCHITECT%20//%20SOFTWARE%20DEVELOPER%20//%20BITCOIN&descAlignY=58&descSize=14" width="100%"/>
 </p>
 
 <p align="center">
